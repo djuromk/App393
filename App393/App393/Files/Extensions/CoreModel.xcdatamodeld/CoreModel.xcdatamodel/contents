@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="22522" systemVersion="22G513" minimumToolsVersion="Automatic" sourceLanguage="Swift" usedWithSwiftData="YES" userDefinedModelVersionIdentifier="">
+    <entity name="ConvertModel" representedClassName="ConvertModel" syncable="YES" codeGenerationType="class">
+        <attribute name="conCurOne" optional="YES" attributeType="String"/>
+        <attribute name="conCurTwo" optional="YES" attributeType="String"/>
+        <attribute name="conValOne" optional="YES" attributeType="String"/>
+        <attribute name="conValTwo" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="CurrencyModel" representedClassName="CurrencyModel" syncable="YES" codeGenerationType="class">
+        <attribute name="curAbr" optional="YES" attributeType="String"/>
+        <attribute name="curTitle" optional="YES" attributeType="String"/>
+        <attribute name="curValue" optional="YES" attributeType="String"/>
+    </entity>
+</model>
